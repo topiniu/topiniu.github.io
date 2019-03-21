@@ -3,20 +3,21 @@
   "name": "pwa manifest file test",
   "icons": [
     {
-      "src": "src/public/img/icon.jpg",
+      "src": "icon.jpg",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "src/public/img/icon.jpg",
+      "src": "icon.jpg",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "src/public/img/icon.jpg",
+      "src": "icon.jpg",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
   "start_url": "/"
 }
+

@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{30:function(e,n,t){"use strict";t.r(n);var a=t(0);n.default=class extends a.Component{render(){return a.createElement("div",null,"I am page 3")}}}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{31:function(e,n,t){"use strict";t.r(n);var a=t(0);n.default=class extends a.Component{render(){return a.createElement("div",null,"I am page 3")}}}}]);
 //# sourceMappingURL=4.js.map
