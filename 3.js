@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{32:function(e,n,s){"use strict";s.r(n);var t=s(0);n.default=class extends t.Component{render(){return t.createElement("h1",null,"I am self page")}}}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{31:function(e,n,s){"use strict";s.r(n);var t=s(0);n.default=class extends t.Component{render(){return t.createElement("h1",null,"I am self page")}}}}]);
 //# sourceMappingURL=3.js.map
