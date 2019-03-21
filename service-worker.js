@@ -27,10 +27,10 @@ this.addEventListener('fetch', function(e){
         }
 
         //请求成功，缓存请求过来的资源文件
-        var rc = httpRes.clone();
-        caches.open('v1').then(function(cache){
-          cache.put(e.request, rc)
-        })
+        // var rc = httpRes.clone();
+        // caches.open('v1').then(function(cache){
+        //   cache.put(e.request, rc)
+        // })
 
         return httpRes
       })
