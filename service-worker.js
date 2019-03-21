@@ -5,7 +5,6 @@ this.addEventListener('install', function(e){
         '/index.html',
         '/main.js',
         '/2.js',
-        '/3.js'
       ])
     })
   )
